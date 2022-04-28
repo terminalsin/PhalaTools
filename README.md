@@ -5,3 +5,9 @@ Server quick installer:
 ```
 wget -O - https://raw.githubusercontent.com/terminalsin/PhalaTools/main/scripts/installer-pre.sh | bash
 ```
+
+Post installer:
+
+```
+wget -O - https://raw.githubusercontent.com/terminalsin/PhalaTools/main/scripts/installer-post.sh | bash
+```
