@@ -4,4 +4,3 @@ cd /root/
 git clone https://github.com/mtompkins/linux-kernel-utilities.git
 cd linux-kernel-utilities/
 chmod +x *.sh
-reboot
