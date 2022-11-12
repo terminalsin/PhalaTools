@@ -20,3 +20,4 @@ EOT
 
 sudo systemctl start node_exporter
 sudo systemctl enable node_exporter
+sudo systemctl status node_exporter
